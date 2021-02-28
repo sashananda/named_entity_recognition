@@ -1,6 +1,6 @@
 # Named Entity Recognition
 
-Report can be found at `./products/report.pdf`
+Report can be found at `./report.pdf`
 
 Instructions:
 
