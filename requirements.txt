@@ -1,0 +1,7 @@
+pandas
+gensim
+nltk
+tensorflow
+keras
+sklearn
+progress
